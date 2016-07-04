@@ -11,7 +11,6 @@
 ### 動作環境
 
 * Chrome,FireFoxなどの各種Webブラウザ
-* Android版Chrome,FireFox
 
 ### 開発環境
 
