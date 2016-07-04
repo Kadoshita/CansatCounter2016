@@ -1,0 +1,34 @@
+@media screen and (max-width:640px){
+	body{
+		background-color: #ffffff;
+		font-family: 'Amethysta', serif;
+		font-weight: 900;
+	}
+	img{
+		width: 64px;
+		height: 64px;
+	}
+	#content{
+		position: absolute;
+		margin-top: 10%;
+		margin-bottom: 10%;
+		margin-right: 0px;
+		margin-left: 0px;
+		width: 95%;
+	}
+
+	#count{
+		padding: 10px;
+		background-color: #fafafa;
+		border-style: solid;
+		border-color: #59b1eb;
+		border-width: 2px;
+		text-align: center;
+		font-size: 24px;
+		color: #1976d2;
+	}
+	.br:before {
+		content: "\A" ;
+		white-space: pre ;
+	}
+}
